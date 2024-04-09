@@ -14,13 +14,13 @@ Step 4: clustering (k-means, GMM etc) is performed to these components to create
 
 ## Glance into Li-ion battery
 
-![multilayered_git](https://github.com/artMATERIALS/hyperspectral-microspectroscopy/assets/151731956/9f2ae7e2-e5d5-46b4-93c1-a901188bb551)
+<img src="https://github.com/artMATERIALS/hyperspectral-microspectroscopy/assets/151731956/9f2ae7e2-e5d5-46b4-93c1-a901188bb551" width="500">
 
 SXM data for cycled MS-etched Ti3C2Tx MXene. a Transmission image at the O K-edge, along with b the clustered image and c corresponding transmission XA spectra. e TEY image at the O K-edge, along with f the clustered image and g corresponding TEY spectra. Areas of MXene (green), separator (yellow), and electrolyte residues (red) are shown. c Comparative analysis at the Ti L-edge in d both transmission and h TEY modes for pristine and cycled MS-etched Ti3C2Tx MXene. The spectra at O K- and Ti L-edge of pristine MS-etched Ti3C2Tx MXene (blue) are added for comparison. An inset with fitted spectra of the pre-edge of pristine and cycled MXene is included. 
 
 ## Curve fitting of NEXAFS data
 
-![dq](https://github.com/artMATERIALS/hyperspectral-microspectroscopy/assets/151731956/a53c329f-a57d-4a83-84b7-6a44dc61e150)
+<img src="https://github.com/artMATERIALS/hyperspectral-microspectroscopy/assets/151731956/a53c329f-a57d-4a83-84b7-6a44dc61e150" width="500">
 
 Fitted spectra at O K-edge for cycled MXene in LP30 electrolyte. (a) OD spectra at O K-edge, for pristine MXene (blue), cycled MXene (green) with signs of Li-O bond (cyan peak) and carbonates interacted with MXene (red). (b) Corresponding TEY spectra for carbonates with trace of oxygen bond to titanium.
 
