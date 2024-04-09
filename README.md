@@ -1,7 +1,7 @@
 # MOSAIC-multiMOdal Spectromicroscopic data Analysis tool for Intelligent Correlation
 Workflow for analysis of hyperspectral datasets, in transmisison and electron yield mode.
 
-![g3](https://github.com/artMATERIALS/hyperspectral-microspectroscopy/assets/151731956/ce9970ba-83a3-4281-8e45-b8803feddc7b)
+![g3](https://github.com/artMATERIALS/hyperspectral-microspectroscopy/assets/151731956/a1223a62-beda-4fa0-b2c7-2a9e3cf57d02)
 
 
 Step 1: data are acquired in transmission and total electron yield mode
