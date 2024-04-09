@@ -20,8 +20,7 @@ SXM data for cycled MS-etched Ti3C2Tx MXene. a Transmission image at the O K-edg
 
 ## Curve fitting of NEXAFS data
 
-
-![image](https://github.com/artMATERIALS/correlative-hyperspectral-microspectroscopy/assets/151731956/617e8a1b-2295-41d9-9199-d2ffe6c446c6)
+![dq](https://github.com/artMATERIALS/hyperspectral-microspectroscopy/assets/151731956/a53c329f-a57d-4a83-84b7-6a44dc61e150)
 
 Fitted spectra at O K-edge for cycled MXene in LP30 electrolyte. (a) OD spectra at O K-edge, for pristine MXene (blue), cycled MXene (green) with signs of Li-O bond (cyan peak) and carbonates interacted with MXene (red). (b) Corresponding TEY spectra for carbonates with trace of oxygen bond to titanium.
 
