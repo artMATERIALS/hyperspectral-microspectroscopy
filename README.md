@@ -16,9 +16,11 @@ Step 4: clustering (k-means, GMM etc) is performed to these components to create
 
 ### Glance into Li-ion battery
 
+Areas of MXene working electrode (green), separator (yellow), and electrolyte residues (red) in a Li-ion battery are shown. 
+
 <img src="https://github.com/artMATERIALS/hyperspectral-microspectroscopy/assets/151731956/9f2ae7e2-e5d5-46b4-93c1-a901188bb551" width="500">
 
-Scanning x-ray microscopy data for cycled Ti3C2 MXene with oxygen termiantions. Clustered image, acquired from transmission (electron yield) data at O K-edge, and corresponding transmission (electron yield) XA spectra. Areas of MXene (green), separator (yellow), and electrolyte residues (red) are shown. 
+Scanning x-ray microscopy data for cycled Ti3C2 MXene with oxygen termiantions. Clustered image, acquired from transmission (electron yield) data at O K-edge, and corresponding transmission (electron yield) XA spectra.
 
 ### Curve fitting of NEXAFS data
 
