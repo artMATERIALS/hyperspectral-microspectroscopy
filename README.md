@@ -3,13 +3,13 @@ Workflow for analysis of hyperspectral datasets, in transmisison and electron yi
 
 ![image](https://github.com/artMATERIALS/correlative-hyperspectral-microspectroscopy/assets/151731956/d035174f-f9cb-4ee5-8c8a-a74ef11abfa9)
 
-Step 1: data are preprocessed for drift correction
+Step 1: data are acquired in transmission and total electron yield mode
 
-Step 2: normalization 
+Step 2: data are preprocessed for drift correction and normalized
 
-Step 3: images are reduced to a few components by performing a dimensionality reduction 
+Step 3: images are reduced to a few components by performing a dimensionality reduction technique
 
-Step 4: Clustering is performed to these components to create the clustered transmission and TEY image.
+Step 4: clustering is performed to these components to create the clustered transmission and electron yield image.
 
 ## Glance into Li-ion battery
 
