@@ -12,7 +12,8 @@ a Workflow for spectromicroscopic data, collected for multilayered MS-Ti3C2Tx MX
 SXM data for cycled MS-etched Ti3C2Tx MXene. a Transmission image at the O K-edge, along with b the clustered image and c corresponding transmission XA spectra. e TEY image at the O K-edge, along with f the clustered image and g corresponding TEY spectra. Areas of MXene (green), separator (yellow), and electrolyte residues (red) are shown. c Comparative analysis at the Ti L-edge in d both transmission and h TEY modes for pristine and cycled MS-etched Ti3C2Tx MXene. The spectra at O K- and Ti L-edge of pristine MS-etched Ti3C2Tx MXene (blue) are added for comparison. An inset with fitted spectra of the pre-edge of pristine and cycled MXene is included. 
 
 #### Curve fitting of NEXAFS data
-
+<hr>
+<p align="center">
 ![image](https://github.com/artMATERIALS/correlative-hyperspectral-microspectroscopy/assets/151731956/617e8a1b-2295-41d9-9199-d2ffe6c446c6)
-
+</p>
 Fitted spectra at O K-edge for cycled MXene in LP30 electrolyte. (a) OD spectra at O K-edge, for pristine MXene (blue), cycled MXene (green) with signs of Li-O bond (cyan peak) and carbonates interacted with MXene (red). (b) Corresponding TEY spectra for carbonates with trace of oxygen bond to titanium.
