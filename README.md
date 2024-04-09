@@ -26,7 +26,7 @@ The curve fitting analysis involves background subtraction with a background fun
 
 <img src="https://github.com/artMATERIALS/hyperspectral-microspectroscopy/assets/151731956/a53c329f-a57d-4a83-84b7-6a44dc61e150" width="500">
 
-Fitted spectra at O K-edge for cycled MXene in LP30 electrolyte. (a) OD spectra at O K-edge, for pristine MXene (blue), cycled MXene (green) with signs of Li-O bond (cyan peak) and carbonates interacted with MXene (red). (b) Corresponding TEY spectra for carbonates with trace of oxygen bond to titanium.
+Fitted spectra at O K-edge for cycled MXene in LP30 electrolyte. OD spectra at O K-edge, for pristine MXene (blue), cycled MXene (green) with signs of Li-O bond (cyan peak) and carbonates interacted with MXene (red). 
 
 #### References
 Amargianou, F., Bärmann, P., Shao, H., Taberna, P.-L., SIMON, P., Gonzalez-Julian, J., Weigand, M., & Petit, T. (2024). Nanoscale surface and bulk electronic properties of Ti3C2Tx MXene unraveled by multimodal X-ray spectromicroscopy. https://doi.org/10.5281/ZENODO.10377233
