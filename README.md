@@ -3,7 +3,10 @@ Workflow for analysis of hyperspectral datasets, in transmisison and electron yi
 
 ![image](https://github.com/artMATERIALS/correlative-hyperspectral-microspectroscopy/assets/151731956/d035174f-f9cb-4ee5-8c8a-a74ef11abfa9)
 
-a Workflow for spectromicroscopic data, collected for multilayered MS-Ti3C2Tx MXene. Images in transmission and TEY mode, acquired at Ti L-edge (step 1) are preprocessed for drift correction and normalization (step 2). Then, images are reduced to a few components by performing a dimensionality reduction (step 3). Clustering is performed to these components to create the clustered transmission and TEY image (step 4). Clustered spectrum is extracted by averaging the preprocessed spectra, corresponding to pixels of a clustered area. Clustered spectra are shown in b for transmission and c for TEY mode. Cluster 1-3 and clusters I-III are produced after clustering separately the preprocessed transmission and TEY data, respectively. 
+Step 1: data are preprocessed for drift correction
+Step 2: normalization 
+Step 3: images are reduced to a few components by performing a dimensionality reduction 
+Step 4: Clustering is performed to these components to create the clustered transmission and TEY image.
 
 ## Glance into Li-ion battery
 
