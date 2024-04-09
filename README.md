@@ -18,7 +18,7 @@ Step 4: clustering (k-means, GMM etc) is performed to these components to create
 
 <img src="https://github.com/artMATERIALS/hyperspectral-microspectroscopy/assets/151731956/9f2ae7e2-e5d5-46b4-93c1-a901188bb551" width="500">
 
-SXM data for cycled MS-etched Ti3C2Tx MXene. a Transmission image at the O K-edge, along with b the clustered image and c corresponding transmission XA spectra. e TEY image at the O K-edge, along with f the clustered image and g corresponding TEY spectra. Areas of MXene (green), separator (yellow), and electrolyte residues (red) are shown. c Comparative analysis at the Ti L-edge in d both transmission and h TEY modes for pristine and cycled MS-etched Ti3C2Tx MXene. The spectra at O K- and Ti L-edge of pristine MS-etched Ti3C2Tx MXene (blue) are added for comparison. An inset with fitted spectra of the pre-edge of pristine and cycled MXene is included. 
+Scanning x-ray microscopy data for cycled Ti3C2 MXene with oxygen termiantions. Clustered image, acquired from transmission (electron yield) data at O K-edge, and corresponding transmission (electron yield) XA spectra. Areas of MXene (green), separator (yellow), and electrolyte residues (red) are shown. 
 
 ### Curve fitting of NEXAFS data
 
