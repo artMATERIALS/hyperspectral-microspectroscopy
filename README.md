@@ -22,6 +22,8 @@ SXM data for cycled MS-etched Ti3C2Tx MXene. a Transmission image at the O K-edg
 
 ### Curve fitting of NEXAFS data
 
+The curve fitting analysis involves background subtraction with a background function (arc tangent) to remove the excitation of core electrons to the continuum or quasi-continuum states. Peak fitting is performed with Gaussian functions. 
+
 <img src="https://github.com/artMATERIALS/hyperspectral-microspectroscopy/assets/151731956/a53c329f-a57d-4a83-84b7-6a44dc61e150" width="500">
 
 Fitted spectra at O K-edge for cycled MXene in LP30 electrolyte. (a) OD spectra at O K-edge, for pristine MXene (blue), cycled MXene (green) with signs of Li-O bond (cyan peak) and carbonates interacted with MXene (red). (b) Corresponding TEY spectra for carbonates with trace of oxygen bond to titanium.
