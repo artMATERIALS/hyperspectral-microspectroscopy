@@ -9,7 +9,7 @@ Step 2: data are preprocessed for drift correction and normalized
 
 Step 3: images are reduced to a few components by performing a dimensionality reduction technique
 
-Step 4: clustering is performed to these components to create the clustered transmission and electron yield image.
+Step 4: clustering is performed to these components to create the clustered transmission and electron yield image
 
 ## Glance into Li-ion battery
 
